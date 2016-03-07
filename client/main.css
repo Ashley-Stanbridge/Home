@@ -53,7 +53,7 @@ body {
 }
 
 
-.pushmenu { /*this is the nav*/
+.pushmenu { 
   background: #3c3933;
   font-family: Arial, Helvetics, sans-serif;
   width: 240px;
@@ -76,7 +76,7 @@ body {
 
 
 .pushmenu a {
-  display: block; /* drops the nav vertically*/
+  display: block; 
   color: #fff;
   font-size: 16px;
   font-weight: bold;
@@ -121,7 +121,6 @@ body {
 }
 
 
-/*Transition*/
 .pushmenu, .pushmenu-push {
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
